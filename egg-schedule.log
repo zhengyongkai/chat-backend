@@ -1,0 +1,6 @@
+2023-06-05 21:51:06,937 INFO 25808 [Timer] D:\project\chat-backend\node_modules\_egg-multipart@2.13.1@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 23933065ms at 2023-06-06 04:30:00.002
+2023-06-05 21:51:06,937 INFO 25808 [Timer] D:\project\chat-backend\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 7733063ms at 2023-06-06 00:00:00.000
+2023-06-05 21:51:06,937 INFO 25808 [Timer] D:\project\chat-backend\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 7734063ms at 2023-06-06 00:00:01.000
+2023-06-05 21:51:06,527 INFO 21172 [egg-schedule]: register schedule D:\project\chat-backend\node_modules\_egg-multipart@2.13.1@egg-multipart\app\schedule\clean_tmpdir.js
+2023-06-05 21:51:06,527 INFO 21172 [egg-schedule]: register schedule D:\project\chat-backend\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-06-05 21:51:06,527 INFO 21172 [egg-schedule]: register schedule D:\project\chat-backend\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
